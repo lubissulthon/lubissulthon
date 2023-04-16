@@ -1,6 +1,6 @@
 <h1 align="center">Resolusi : pandai tanpa menjadi WIBU</h1>
 
-<div style="padding-top:40.000%;position:relative;"><iframe src="https://gifer.com/embed/2Hi2" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+<img alt="jones" src="https://i.gifer.com/2Hi2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubissulthon&label=Profile%20views&color=0e75b6&style=flat" alt="lubissulthon" /> </p>
 
