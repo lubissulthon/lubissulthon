@@ -1,9 +1,8 @@
 <h1 align="center">Resolusi : pandai tanpa menjadi WIBU</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lubissulthon&label=Profile%20views&color=0e75b6&style=flat" alt="lubissulthon" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<div style="padding-top:40.000%;position:relative;"><iframe src="https://gifer.com/embed/2Hi2" width="100%" height="100%" style='position:absolute;top:0;left:0;' frameBorder="0" allowFullScreen></iframe></div><p><a href="https://gifer.com">via GIFER</a></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lubissulthon&label=Profile%20views&color=0e75b6&style=flat" alt="lubissulthon" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
