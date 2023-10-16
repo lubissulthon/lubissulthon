@@ -1,4 +1,4 @@
-<h1 align="center">Resolusi : pandai tanpa menjadi WIBU</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lubissulthon&label=Profile%20views&color=0e75b6&style=flat" alt="lubissulthon" /> </p>
 
 ![jones](https://user-images.githubusercontent.com/123277407/232276966-b89eb01a-daef-4849-b22c-331c21e07675.gif)
